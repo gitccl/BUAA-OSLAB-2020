@@ -6,7 +6,7 @@
 
 - **一些基本命令**
 
-![QQ截图20200311143810](image/ex1_1.png)
+![ex1](image/ex1_1.png)
 
 
 
@@ -16,7 +16,7 @@
 
 - **重定向`>`**
 
-![QQ截图20200311144117](image/ex2.png)
+![ex2](image/ex2.png)
 
 
 
@@ -26,9 +26,9 @@
 
 ## Exercise 0.3
 
-![QQ截图20200311150914](image/ex3_1.png)
+![ex3_1](image/ex3_1.png)
 
-![QQ截图20200311150954](image/ex3_2.png)
+![ex3_2](image/ex3_2.png)
 
 
 
@@ -40,9 +40,9 @@
 
 - `git reset`
 
-![QQ截图20200311151436](image/ex4_1.png)
+![ex4_1](image/ex4_1.png)
 
-![QQ截图20200311151709](image/ex4_2.png)
+![ex4_2](image/ex4_2.png)
 
 
 
@@ -54,7 +54,7 @@
 
 - `git branch`
 
-![QQ截图20200313121829](image/ex5.png)
+![ex5](image/ex5.png)
 
 
 
