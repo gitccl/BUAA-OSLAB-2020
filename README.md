@@ -17,3 +17,14 @@
 
 Lab0-Lab6已全部完成。每个实验的报告会上传在博客[我的博客](https://akwing.cn)里。（可能要等到考完试了才有时间弄了）
 
+
+> 2020-06-28更新
+
+实验报告Lab1-Lab4已发布在博客。Lab5和Lab6实在没时间写了，所以就咕咕咕了。
+[Lab1笔记](https://akwing.cn/archives/131/)
+
+[Lab2笔记](https://akwing.cn/archives/132/)
+
+[Lab3笔记](https://akwing.cn/archives/134/)
+
+[Lab4笔记](https://akwing.cn/archives/140/)
